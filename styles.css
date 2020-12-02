@@ -1,0 +1,15 @@
+.ct-golden{
+    margin: 20px; 
+    height: 650px;
+    width: 650px;
+    border: 2px solid red;
+    padding: 30px;
+}
+
+.container-chart{
+    display: flex;
+    flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  
+}
